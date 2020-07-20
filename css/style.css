@@ -46,8 +46,9 @@ body{
 }
 
 #img img {
-    height: 25vh;
+    height: 30vh;
     border-radius: 50%;
+    
 }
 
 .center {
@@ -58,7 +59,7 @@ body{
 
 #maintext {
         
-    padding-top: 2.8%;
+    padding-top: 0%;
     font-size: 300%;
 }
 

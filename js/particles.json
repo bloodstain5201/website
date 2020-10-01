@@ -39,9 +39,9 @@
       },
       "line_linked": {
         "enable": true,
-        "distance": 150,
+        "distance": 100,
         "color": "#c8c8c8",
-        "opacity": 0.9,
+        "opacity": 0.75,
         "width": 1
       },
       "move": {
@@ -53,7 +53,7 @@
         "out_mode": "bounce",
         "bounce": false,
         "attract": {
-          "enable": true,
+          "enable": false,
           "rotateX": 600,
           "rotateY": 1200
         }

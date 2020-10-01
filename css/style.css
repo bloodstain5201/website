@@ -6,7 +6,7 @@ body{
     /* background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../img/home-bg.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: black;
+    background-color: whitesmoke;
     background-position: 0%;
     font-family: 'Lato', sans-serif;
     padding: 0;
@@ -28,9 +28,14 @@ body{
     }
 }
 #particles-js{
-    background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('../img/image1.jpg');
+    /* background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('../img/image1.jpg'); */
     height: 100vh;
 }
+
+
+
+
+
 #allcontent {
     margin-top: 9.8%;
     position: absolute;
@@ -70,14 +75,14 @@ body{
     font-family: 'Work Sans', sans-serif;
     font-size: 1.3em;
     line-height: 1.3em;
-    color: white;
+    color: #4f4f4f;
     padding-top: 3.8%;
 }
 
 a {
   text-decoration: none;
-  color: white;
-  box-shadow: inset 0 -2px 0 0 #d45047;
+  color: #8c8c8c;
+  box-shadow: inset 0.27px -2px 0 0 #d45047;
   display: inline-block;
   transition: all .2s ease-in-out;
   padding: 0px;
@@ -96,8 +101,8 @@ a:hover {
 h2 {
     font-size: 50px;
     font-family: 'Lato', sans-serif;
-    color:white;
-    background-color: white;  
+    color:#4f4f4f;
+    background-color: #666565;  
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 

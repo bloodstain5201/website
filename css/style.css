@@ -32,8 +32,10 @@ body{
     height: 100vh;
 }
 
-
-
+#particle-js{
+    padding: 0%;
+    margin: 0%;
+}
 
 
 #allcontent {

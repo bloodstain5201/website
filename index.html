@@ -44,9 +44,10 @@
 
 </head>
 <body>
+    <div id="particles-js">
     <div id="allcontent">
         <div class="center" id="img">
-            <img src="./img/mainimg.JPG ">
+            <img src="./img/mainimg.PNG ">
         </div>
         <br>
         <div class="center" id="maintext">
@@ -93,6 +94,15 @@
         </nav>
 
     </div>
+ </div>
+ <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+ <script>
+     particlesJS.load('particles-js', './js/particles.json',
+     function(){
+         console.log('particles.json loaded...')
+     })
+ </script>
 
 </body>
 
